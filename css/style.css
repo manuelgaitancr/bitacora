@@ -1,0 +1,20 @@
+@import url("./bootstrap.min.css");
+
+body {
+  background-color: hsl(0, 0%, 92%);
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+.bg-racsa {
+  background-color: hsl(204, 69%, 55%);
+}
+
+.bg-racsa_2 {
+  background-color: hsl(235, 68%, 29%);
+}
